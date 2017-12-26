@@ -1,0 +1,16 @@
+meow
+MEOw
+0x49
+0x0x0
+_091203
+_ABCD
+A_BCD
+A-BCD
+__MEOW__
+123
+
+"This \"is\" a string!"
+"This " "is a string!"
+"Hello, world!"
+"whom'st've'd'th'n't"
+"meo\w"
